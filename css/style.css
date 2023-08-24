@@ -1,0 +1,18 @@
+body{
+    background-color: #f7ecde;
+}
+.pop{
+    font-size: 50px;
+    background-color: aqua;
+   color: #352e28;
+   bottom: 5%;
+   width: 20%;
+   height: 5%;
+   margin: auto;
+   padding : 2;
+   
+}
+.pop:hover{
+    
+}
+
